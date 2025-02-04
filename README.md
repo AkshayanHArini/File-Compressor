@@ -19,8 +19,3 @@ This project is a text file compressor implemented in C++ using the Huffman codi
 - **Language**: C++ (for efficient memory management and implementation)
 - **Algorithm**: Huffman Coding
 - **Data Structure**: Min-Heap
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JeganT143/huffman-text-compressor.git
